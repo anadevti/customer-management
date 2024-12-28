@@ -11,7 +11,7 @@
 ### Listar todos os clientes
 GET /clients
 Retorna uma lista de todos os clientes.
-#
+
 ### Listar um cliente específico
 GET /clients/{id}
 Parâmetros: id (inteiro).
